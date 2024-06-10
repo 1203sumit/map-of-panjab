@@ -1,2 +1,1 @@
-# map-of-panjab
-PROJECT:- to find shortest path among the various cities of panjab by using data-structure with c  
+In this project we find the shortest by fetching the distance between various cities from a database using file handling techniques 
